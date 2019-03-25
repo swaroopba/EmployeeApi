@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: Swaroop
+Build-Jdk: 9.0.4
+Implementation-Title: Employee-API
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.projects
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/Employee-API
+Created-By: Maven Integration for Eclipse
+
